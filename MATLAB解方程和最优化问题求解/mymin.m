@@ -1,3 +1,3 @@
 function fx=mymin(x)
-fx=-(1+x.^2)/(1+x.^4);
+fx=-sin(x)-cos(x)^2;
 end
